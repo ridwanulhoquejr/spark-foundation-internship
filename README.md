@@ -1,5 +1,5 @@
 
-# The-Spark-Foundation-Internship 
+# The-Spark-Foundation-Internship 🤝
 
 This Repository is all about the Intership task of GRIP Oct,22 btach.
 
@@ -7,7 +7,7 @@ This Repository is all about the Intership task of GRIP Oct,22 btach.
 
 | Task name            | Link                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-| Prediction using Supervised Machine Learnig Algorithm | https://bit.ly/3ytbOSy |
+| Prediction using Supervised Machine Learnig Algorithm 🔰 | https://bit.ly/3ytbOSy |
 
 
 
