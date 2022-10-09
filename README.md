@@ -1,3 +1,3 @@
-# The-Spark-Foundation-Internship :🤝
+# The-Spark-Foundation-Internship 🤝
 
-## Task 01: Prediction using Supervised Machine Learnig Algorithm 🔰
+### Task 01: Prediction using Supervised Machine Learnig Algorithm 🔰
